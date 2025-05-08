@@ -4,17 +4,10 @@ import csv
 import pandas as pd
 from datetime import datetime, timedelta
 
-# Create a Reddit instance
-# reddit = praw.Reddit(
-#     client_id='',
-#     client_secret='',
-#     user_agent='Powerful-Major6768'
-# )
-
-# Create a Reddit instance
+#Create a Reddit instance
 reddit = praw.Reddit(
-    client_id='TH09K1jq5vZiHLQ66yD_2w',
-    client_secret='Xdl48y9NUEOr_Bnla0OlG_JDLoXTlA',
+    client_id='',
+    client_secret='',
     user_agent='Powerful-Major6768'
 )
 
