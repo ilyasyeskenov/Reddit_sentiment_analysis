@@ -1,0 +1,11 @@
+requests
+praw
+pandas
+numpy
+tqdm
+matplotlib
+scikit-learn
+nltk
+xgboost
+transformers
+torch
